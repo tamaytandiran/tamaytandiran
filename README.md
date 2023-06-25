@@ -5,7 +5,7 @@
 No one really cares about you, so just focus on yourself, in the end you will be alone anyway.
 
 - 📩 You can contact me at [tamay1@wearehackerone.com](mailto:tamay1@wearehackerone.com)
-- 🐙 I'm currently working on [Hackerone](http://hackerone.com/tamay1)
+- 🐙 I'm currently hunting on [Hackerone](http://hackerone.com/tamay1)
 - 🤡 I'm focusing cyber security
 
 ### Socials
